@@ -1,0 +1,14 @@
+langchain
+langchain-openai
+langchain-core
+langchain-community
+langchain-chroma
+fastapi
+uvicorn
+streamlit
+requests
+docx2txt
+pypdf
+python-multipart
+python-dotenv
+mysql.connector
